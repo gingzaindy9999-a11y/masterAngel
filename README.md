@@ -1,4 +1,4 @@
-[![Jupyter Book Badge](https://raw.githubusercontent.com/executablebooks/jupyter-book/master/docs/images/badge.svg)](https://ml-course.github.io/)
+[![RITTHIKRAI KIRIKAN](https://raw.githubusercontent.com/executablebooks/jupyter-book/master/docs/images/badge.svg)](https://ml-course.github.io/)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCurDcl-q8dkRF5WFMCW1tSA?style=social)](https://www.youtube.com/channel/UCurDcl-q8dkRF5WFMCW1tSA)
 
 
