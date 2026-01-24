@@ -1,0 +1,34 @@
+GRANDMASTERANGEL_SIGNATURE="© GrandmasterAngel™ | T-2222 | LIVE"
+<script>
+(function () {
+  const SIG = "© GrandmasterAngel™ | T-2222 | LIVE";
+
+  // 1. ใส่ comment ใน DOM
+  document.documentElement.appendChild(
+    document.createComment(SIG)
+  );
+
+  // 2. แสดง watermark มุมจอ
+  const wm = document.createElement("div");
+  wm.innerText = SIG;
+  wm.style.cssText = `
+    position:fixed;
+    bottom:6px;
+    right:8px;
+    font-size:11px;
+    opacity:0.25;
+    z-index:99999;
+    pointer-events:none;
+  `;
+  document.body.appendChild(wm);
+})();
+</script>
+SIGNATURE = "© GrandmasterAngel™ | T-2222"
+
+def gm_log(msg):
+    print(f"[{SIGNATURE}] {msg}")
+global.GM_SIGNATURE = "© GrandmasterAngel™ | T-2222";
+
+console.log(`[${GM_SIGNATURE}] system online`);
+export GM_SIGNATURE="© GrandmasterAngel™ | T-2222"
+echo "[$GM_SIGNATURE] stream active"
